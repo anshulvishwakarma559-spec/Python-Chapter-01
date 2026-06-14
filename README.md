@@ -1,33 +1,45 @@
-# Python-Chapter-01
-Beginner-friendly Python fundamentals covering core concepts, examples, and practice programs.
-# Python Chapter 01
+# 📘 Python Chapter 01 – Fundamentals
 
-This repository contains my learning and practice code for Python Chapter 1. It includes fundamental concepts that help in building a strong base in Python programming.
+This repository contains my learning and practice code for Python Chapter 1. It focuses on fundamental programming concepts that build a strong foundation for Python, Data Science, Machine Learning, and AI.
 
-## Topics Covered
+---
 
-- Introduction to Python
-- Code Execution in Python
-- Expressions and Statements
-- User Input in Python
-- Variables and Memory Concept
+## 📂 Topics Covered
 
-## Key Learnings
+- Introduction to Python  
+- How Python Code Executes  
+- Expressions vs Statements  
+- User Input in Python  
+- Variables and Memory Concepts  
 
-- How Python code runs internally
-- Difference between expression and statement
-- Taking input from user using input()
-- Working with variables and memory allocation
-- Basic structure of Python programs
+---
 
-## Files Included
+## 🎯 Key Learnings
 
-- intro.py – Basic introduction to Python
-- code execution.py – How Python executes code
-- Expression and statement.py – Expressions vs statements
-- user input.py – User input handling
-- variables & memory.py – Variables and memory concepts
+- Understanding how Python executes code internally  
+- Difference between expressions and statements  
+- Taking user input using `input()`  
+- Working with variables and memory allocation  
+- Basic structure and flow of Python programs  
 
-## Purpose
+---
 
-This repository is created for learning Python basics, practicing coding, and building a strong foundation for Data Science, Machine Learning, and AI.
+## 📁 Files Included
+
+- `intro.py` – Introduction to Python  
+- `code_execution.py` – How Python executes code  
+- `expression_and_statement.py` – Expressions vs statements  
+- `user_input.py` – Handling user input  
+- `variables_and_memory.py` – Variables and memory concepts  
+
+---
+
+## 🚀 Purpose
+
+This repository is created for learning Python basics, practicing coding, and building a strong foundation for future domains like Data Science, Machine Learning, and Artificial Intelligence.
+
+---
+
+## 👨‍💻 Author
+
+Anshul – Python Learning Journey
